@@ -18,7 +18,7 @@ namespace Veterinaria.Models
         public int Codigo_postal { get; set; }
         public string email { get; set; }
 
-        public ICollection<Cobranzas> Cobranzas { get; set; }
+        public ICollection<Facturas> Cobranzas { get; set; }
         public ICollection<Mascota> Mascota { get; set; }
         
 

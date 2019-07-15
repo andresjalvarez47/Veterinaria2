@@ -107,16 +107,57 @@ namespace Veterinaria.Migrations
               );
 
 
-            // COBRANZAS
-           context.Cobranzas.AddOrUpdate(
+            // FACTURAS
+           context.Facturas.AddOrUpdate(
 
             p => p.IDFacturacion,
 
-              new Models.Cobranzas { IDFacturacion = 0, Cuit = 2033254710, Razon_Social = "Juan SA", Importe = 2000, IDCliente = 0, IDMediopago = 2  },
-              new Models.Cobranzas { IDFacturacion = 1, Cuit = 2025487940, Razon_Social = "Imprenta SA", Importe = 1500, IDCliente = 1, IDMediopago = 1 },
-              new Models.Cobranzas { IDFacturacion = 2, Importe = 700, IDCliente = 2, IDMediopago = 0 },
-              new Models.Cobranzas { IDFacturacion = 3, Importe = 2500, IDCliente = 3, IDMediopago = 0 }
+              new Models.Facturas { IDFacturacion = 0, Cuit = 2033254710, Razon_Social = "Juan SA", Importe = 2000, IDCliente = 0, IDMediopago = 2  },
+              new Models.Facturas { IDFacturacion = 1, Cuit = 2025487940, Razon_Social = "Imprenta SA", Importe = 1500, IDCliente = 1, IDMediopago = 1 },
+              new Models.Facturas { IDFacturacion = 2, Importe = 700, IDCliente = 2, IDMediopago = 0 },
+              new Models.Facturas { IDFacturacion = 3, Importe = 2500, IDCliente = 3, IDMediopago = 0 }
               );
+
+
+
+
+
+
+            // CATEGORIA_PRODUCTOS
+            context.Categoria_Productos.AddOrUpdate(
+
+             p => p.IDCategoriaproductos,
+
+             new Models.Categoria_Productos { IDCategoriaproductos = 0, nombre = "Articulos" },
+             new Models.Categoria_Productos { IDCategoriaproductos = 1, nombre = "Servicios" });
+
+
+
+            // PRODUCTOS
+            context.Productos.AddOrUpdate(
+
+             p => p.IDProductos,
+
+             new Models.Productos { IDProductos= 0,IDCategoriaproductos = 1,nombre = "Cirujia",precio=5000 },
+             new Models.Productos { IDProductos = 1, IDCategoriaproductos = 1, nombre = "Baño",precio=1200 },
+             new Models.Productos { IDProductos = 2, IDCategoriaproductos = 1, nombre = "Consulta_Medica",precio=600 },
+             new Models.Productos { IDProductos = 3, IDCategoriaproductos = 0, nombre = "Vacuna",precio=1000 },
+             new Models.Productos { IDProductos = 4, IDCategoriaproductos = 0, nombre = "Colchoneta",precio=500 },
+             new Models.Productos { IDProductos = 5, IDCategoriaproductos = 0, nombre = "Collar",precio=350 },
+             new Models.Productos { IDProductos = 6, IDCategoriaproductos = 0, nombre = "Correa",precio=200 },
+             new Models.Productos { IDProductos = 7, IDCategoriaproductos = 0, nombre = "Antiparasitario",precio=530 },
+             new Models.Productos { IDProductos = 8, IDCategoriaproductos = 0, nombre = "Alimento_balanceado",precio=230 }
+            );
+
+
+
+            // DETALLE_FACTURAS
+            context.Detalle_Facturas.AddOrUpdate(
+
+             p => p.IDdetallefacturas,
+
+             new Models.Detalle_Facturas { IDdetallefacturas = 0, IDFacturacion = 0, IDProductos=0 },
+             new Models.Detalle_Facturas { IDdetallefacturas = 0, IDFacturacion = 0, IDProductos = 4 });
 
 
 

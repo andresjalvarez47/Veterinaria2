@@ -17,6 +17,9 @@ namespace Veterinaria.Models
         public DbSet<Salas> Salas { get; set; }
         public DbSet<Reserva_Turnos> Reserva_Turnos { get; set; }
         public DbSet<Medio_de_Pago> Medio_de_Pago { get; set; }
-        public DbSet<Cobranzas> Cobranzas { get; set; }
+        public DbSet<Facturas> Facturas { get; set; }
+        public DbSet<Detalle_Facturas> Detalle_Facturas { get; set; }
+        public DbSet<Productos> Productos { get; set; }
+        public DbSet<Categoria_Productos> Categoria_Productos { get; set; }
     }
 }

@@ -12,7 +12,7 @@ namespace Veterinaria.Models
         public int IDMediopago { get; set; }
         public string Nombre { get; set; }
 
-        public ICollection<Cobranzas> Cobranzas { get; set; }
+        public ICollection<Facturas> Cobranzas { get; set; }
 
     }
 

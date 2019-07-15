@@ -1,0 +1,362 @@
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll.config
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Veterinaria.pdb
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe.config
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\csc.rsp
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe.config
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\csi.rsp
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.AppContext.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Collections.Immutable.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Console.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Compression.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.AccessControl.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Claims.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.ValueTuple.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe.config
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.rsp
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe.config
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\EntityFramework.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Microsoft.Web.Infrastructure.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\WebGrease.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\EntityFramework.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.pdb
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\es\System.Web.Helpers.resources.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\es\System.Web.Mvc.resources.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\es\System.Web.Optimization.resources.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\es\System.Web.Razor.resources.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.resources.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csprojAssemblyReference.cache
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CopyComplete
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.dll
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.Addtabla.resources
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.Addtabla2.resources
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.Addtabla3.resources
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.Addtabla31.resources
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.Addtabla6.resources
+F:\Documentos\Laboratorio Software\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.Addtabla9.resources
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll.config
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Veterinaria.pdb
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe.config
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\csc.rsp
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe.config
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\csi.rsp
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.AppContext.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Console.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Compression.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Claims.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.ValueTuple.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe.config
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.rsp
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\EntityFramework.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\WebGrease.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\EntityFramework.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.pdb
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\es\System.Web.Razor.resources.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.dll
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.cobranzas.resources
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.Cache
+C:\Users\aalvarez\Documents\laboratorio soft\NUEVOO\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.cobranzas2.resources
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll.config
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Veterinaria.pdb
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe.config
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\csc.rsp
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe.config
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\csi.rsp
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.AppContext.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Collections.Immutable.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Console.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Compression.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.AccessControl.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Claims.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.ValueTuple.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe.config
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.rsp
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe.config
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\EntityFramework.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Microsoft.Web.Infrastructure.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\WebGrease.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\EntityFramework.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.pdb
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\es\System.Web.Helpers.resources.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\es\System.Web.Mvc.resources.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\es\System.Web.Optimization.resources.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\es\System.Web.Razor.resources.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.resources.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csprojAssemblyReference.cache
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.cobranzas.resources
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.cobranzas2.resources
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CopyComplete
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.dll
+F:\Documentos\Laboratorio Software\OK ultima version\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll.config
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Veterinaria.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Veterinaria.pdb
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\csc.exe.config
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\csc.rsp
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\csi.exe.config
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\csi.rsp
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.AppContext.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Collections.Immutable.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Console.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Compression.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.IO.Pipes.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.AccessControl.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Claims.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.ValueTuple.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.exe.config
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\vbc.rsp
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\roslyn\VBCSCompiler.exe.config
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\EntityFramework.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Microsoft.Web.Infrastructure.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\WebGrease.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\EntityFramework.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\EntityFramework.SqlServer.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Helpers.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Mvc.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Optimization.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.Razor.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Deployment.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\System.Web.WebPages.Razor.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Newtonsoft.Json.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Antlr3.Runtime.pdb
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\es\System.Web.Helpers.resources.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\es\System.Web.Mvc.resources.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\es\System.Web.Optimization.resources.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\es\System.Web.Razor.resources.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.resources.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csprojAssemblyReference.cache
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CopyComplete
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.dll
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.facturacion5.resources
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+F:\Documentos\Laboratorio Software\Copia OK Ultima version\Copia OK\OK\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Migrations.productos2.resources

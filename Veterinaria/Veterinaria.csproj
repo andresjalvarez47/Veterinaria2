@@ -133,25 +133,28 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201906211637548_cobranzas.cs" />
-    <Compile Include="Migrations\201906211637548_cobranzas.Designer.cs">
-      <DependentUpon>201906211637548_cobranzas.cs</DependentUpon>
+    <Compile Include="Migrations\201907131645057_facturacion5.cs" />
+    <Compile Include="Migrations\201907131645057_facturacion5.Designer.cs">
+      <DependentUpon>201907131645057_facturacion5.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201906211706463_cobranzas2.cs" />
-    <Compile Include="Migrations\201906211706463_cobranzas2.Designer.cs">
-      <DependentUpon>201906211706463_cobranzas2.cs</DependentUpon>
+    <Compile Include="Migrations\201907150005446_productos2.cs" />
+    <Compile Include="Migrations\201907150005446_productos2.Designer.cs">
+      <DependentUpon>201907150005446_productos2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Clientes.cs" />
-    <Compile Include="Models\Cobranzas.cs" />
+    <Compile Include="Models\Detalle_Facturas.cs" />
+    <Compile Include="Models\Facturas.cs" />
     <Compile Include="Models\Identity.cs" />
     <Compile Include="Models\Mascota.cs" />
     <Compile Include="Models\Medico_especialidad.cs" />
     <Compile Include="Models\Medico_veterinario.cs" />
     <Compile Include="Models\Medio_de_Pago.cs" />
+    <Compile Include="Models\Productos.cs" />
     <Compile Include="Models\Reserva_Turnos.cs" />
     <Compile Include="Models\Salas.cs" />
     <Compile Include="Models\Tipo_Animal.cs" />
+    <Compile Include="Models\Categoria_Productos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -216,14 +219,13 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201906211637548_cobranzas.resx">
-      <DependentUpon>201906211637548_cobranzas.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201907131645057_facturacion5.resx">
+      <DependentUpon>201907131645057_facturacion5.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201906211706463_cobranzas2.resx">
-      <DependentUpon>201906211706463_cobranzas2.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201907150005446_productos2.resx">
+      <DependentUpon>201907150005446_productos2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
